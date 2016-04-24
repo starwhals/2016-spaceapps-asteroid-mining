@@ -21,6 +21,9 @@ Several 3d models were created for the purpose of generating animations to help 
 ## Additional images
 There are several more 3D renderings and orbital images located [here](IMAGES.md)
 
+## Orbital Video of 2000 SG344 (desired target)
+View animation which details timing for desired asteriod for first mining mission [here](videos/orbit_video.mov)
+
 ## Resources Used for researching
 The decisions, designs, and approaches used as part of this solution are based on research detailed in [these resources](RESOURCES-USED.md)
 
