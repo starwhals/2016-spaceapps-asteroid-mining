@@ -1,3 +1,7 @@
+# Project Name: Star-Whals
+https://github.com/starwhals/2016-spaceapps-neo-mining
+
+TODO: EXPLAIN YOUR SOLUTION
 
 ## Background
 This project was developed in response to the 2016 NASA SpaceApps, [Asteroid Mining Challenge](https://2016.spaceappschallenge.org/challenges/solar-system/asteroid-mining), location: NASA Glenn Research Center, Cleveland, OH
