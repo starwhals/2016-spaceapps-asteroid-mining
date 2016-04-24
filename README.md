@@ -3,7 +3,6 @@ https://github.com/starwhals/2016-spaceapps-neo-mining
 
 ![Rendered image of Satellite](images/mission_landing.png "Rendered image of Satellite with Drone and Launcher deploying")
 
-TODO: EXPLAIN YOUR SOLUTION
 
 ## Project Description
 We are developing a mission profile to obtain scarce, useful material and scientific data from a Near Earth Orbit (NEO) asteroid.
