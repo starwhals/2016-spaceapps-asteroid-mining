@@ -11,6 +11,8 @@ The first step is identifying a target asteroid composed of desirable material a
 
 A spacecraft is then designed to travel to the asteroid, verify its composition through a sensory study of impact scattered material, attach landers to the asteroid, then move it into a close Earth orbit at Lagrange Point (L1). The movement of the asteroid will be accomplished through a combination of ion propulsion, mass ejection of asteroid material, and gravity tug.
 
+## Original Presentation
+Slides from the original presentation are available [here](STARWAHL.pptx) or in PDF version [here](STARWAHL.pdf)
 
 ## Background
 This project was developed in response to the 2016 NASA SpaceApps, [Asteroid Mining Challenge](https://2016.spaceappschallenge.org/challenges/solar-system/asteroid-mining), location: NASA Glenn Research Center, Cleveland, OH
