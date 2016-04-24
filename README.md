@@ -6,11 +6,12 @@ https://github.com/starwhals/2016-spaceapps-neo-mining
 TODO: EXPLAIN YOUR SOLUTION
 
 ## Project Description
-Develop a program to obtain scarce and useful material from a near earth orbit asteroid.
+We are developing a mission profile to obtain scarce, useful material and scientific data from a Near Earth Orbit (NEO) asteroid.
 
-Identify a target asteroid composed of desirable material; that’s size, location, and velocity, allow it to be moved into a stable orbit in close proximity to earth, allowing economic access for mining.
+The first step is identifying a target asteroid composed of desirable material. Following target acquisition, the orbital characteristics of the asteroid are attained: size, location, velocity, etc. This allows for the asteroid to be moved into a stable orbit in close proximity to Earth. This will facilitate economical access for mining and scientific research.
 
-Design a spacecraft which will: travel to the asteroid, verify its composition through a sensory study of impact scattered material, then move the asteroid into a close earth orbit through a combination of ion propulsion, mass ejection of asteroid material, and gravity tug.
+A spacecraft is then designed to travel to the asteroid, verify its composition through a sensory study of impact scattered material, attach landers to the asteroid, then move it into a close Earth orbit at Lagrange Point (L1). The movement of the asteroid will be accomplished through a combination of ion propulsion, mass ejection of asteroid material, and gravity tug.
+
 
 
 ## Background
