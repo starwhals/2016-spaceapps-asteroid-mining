@@ -18,6 +18,9 @@ This project was developed in response to the 2016 NASA SpaceApps, [Asteroid Min
 ## 3D Models
 Several 3d models were created for the purpose of generating animations to help explain the plan for obtaining a Near Earth Object for mining.  Those models are included in this project [here](MODELS.md)
 
+## Additional images
+There are several more 3D renderings and orbital images located [here](IMAGES.md)
+
 ## Resources Used for researching
 The decisions, designs, and approaches used as part of this solution are based on research detailed in [these resources](RESOURCES-USED.md)
 
