@@ -1,7 +1,7 @@
 # Project Name: Star-Whals
 https://github.com/starwhals/2016-spaceapps-neo-mining
 
-![Rendered image of Satellite](images/Rendering.JPG "Rendered image of Satellite with Drone and Launcher deploying")
+![Rendered image of Satellite](images/mission_landing.png "Rendered image of Satellite with Drone and Launcher deploying")
 
 TODO: EXPLAIN YOUR SOLUTION
 
